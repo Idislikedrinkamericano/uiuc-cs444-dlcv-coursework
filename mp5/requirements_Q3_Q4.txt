@@ -1,0 +1,10 @@
+diffusers
+transformers
+safetensors
+sentencepiece
+accelerate
+bitsandbytes
+einops
+mediapy
+accelerate
+huggingface-hub

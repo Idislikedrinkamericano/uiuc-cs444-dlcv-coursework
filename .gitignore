@@ -1,0 +1,33 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Training logs / generated runs
+runs/
+**/runs/
+
+# Large/reproducible course data and binary assets
+mp1/data/
+mp2/data/
+mp4/test_data/
+mp5/prompt_embeds_dict.pth
+
+# Temporary files
+*.log
+*.tmp
